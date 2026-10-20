@@ -1,0 +1,173 @@
+a3ktaller — WEB SİTESİ HAZIRLAMA TALİMATI
+Başka bir yapay zekâya doğrudan verilebilecek proje metni
+
+Aşağıdaki kurallara göre A&3K_taller markası için Türkçe, mobil uyumlu, zarif bir ürün tanıtım sitesi hazırla. Sadece öneri sunma; çalışır site dosyalarını ve yerel önizlemeyi teslim et.
+
+1. YAYIN VE GİZLİLİK — ÖNCELİKLİ KURAL
+
+Bu kişisel marka hiçbir şirket veya işverenle bağlantılı değildir. Folkart adı; site içeriğinde, adresinde, hesap seçiminde, yayın altyapısında veya proje ilişkilendirmesinde kullanılmayacak.
+
+Yalnızca yerel taslak oluştur. Kullanıcı ayrıca açıkça onay vermeden:
+- Siteyi internete yayınlama, geçici veya özel bir çevrimiçi önizleme oluşturma.
+- Bulut projesi, GitHub deposu, barındırma kaydı veya paylaşım bağlantısı oluşturma.
+- Dosyaları üçüncü taraf hizmetlere yükleme.
+- İş hesabını veya kurumsal çalışma alanını kullanma.
+- Alan adı satın alma, ücretli abonelik başlatma.
+
+Yayın gündeme gelirse önce kullanılacak kişisel hesabı, hizmeti, tam adresi, ücretsiz plan sınırlarını ve kimlerin görüntüleyebileceğini açıkça anlat. Kullanıcının bu somut yayın için onayını bekle. “Özel yayın” da çevrimiçi yayındır ve onay gerektirir.
+
+Daha önce oluşturulan site silinmiştir. Onu geri getirme veya eski yayın kaydını yeniden kullanma. Bu çalışma yeni ve bağımsız bir yerel taslaktır.
+
+2. MARKA YAZIMI VE TEMEL METİNLER
+
+Site/proje adı: a3ktaller
+Görünür ana marka yazımı: A&3K_taller
+Alt ifade: TASARIM ATÖLYESİ
+Aile ifadesi: Bir anne ve 3 kızı
+
+Bu yazımları koru. “El Emeği Tasarım Atölyesi” ifadesini hiçbir yerde kullanma.
+Türkçe karakterleri doğru göster; UTF-8 kullan. Logo ve kategori adlarında yazım hatası olmasın.
+Sayfa başlığı önerisi: a3ktaller | TASARIM ATÖLYESİ
+
+3. TASARIM REFERANSI VE LOGO
+
+Kullanıcı V3.PNG adlı onaylı marka panosunu ayrıca paylaşırsa bunu görsel referans olarak kullan. Dosya elinde yoksa gördüğünü veya logoyu birebir yeniden ürettiğini iddia etme.
+
+Onaylı ana logonun özellikleri:
+- A&3K_taller yazımı.
+- Çatı çizgisi A harfinden K harfine uzanır.
+- Çizginin sonunda küçük kalp bulunur; çizgi kuyruksuzdur.
+- Altında TASARIM ATÖLYESİ yer alır.
+
+Profil logosu: Seçilen V2 yönünde, adaçayı yeşili daire içinde açık renk logo.
+
+Orijinal yüksek çözünürlüklü logo mevcutsa onu kullan. Düşük çözünürlüklü marka panosundan kesilmiş görseli büyütüp ana logo olarak sunma. Kaynak yoksa marka adını gerçek metinle gösteren geçici bir alan kullan ve kesin logo dosyasının gerektiğini teslim notunda belirt. Onaylı logoyu keyfî biçimde değiştirme.
+
+4. GÖRSEL DİL
+
+Ferahlık, sıcaklık, zarafet, butik atölye ve aile hissi.
+Beyaz ağırlıklı açık zemin, bol boşluk, düzenli yerleşim.
+Çiçek kullanımı çok az olacak. Yoğun çiçekli kapaklar, kalabalık kolajlar ve her bölüme serpiştirilmiş çiçekler istemiyorum.
+
+Renk paleti:
+- Kırık beyaz: #F7F3E8
+- Adaçayı: #A8B5A0
+- Pudra pembe: #E8C9CD
+- Kum beji: #D8C6AD
+- Sıcak altın: #B89A63
+
+Okunabilir metinlerde yeterince koyu, sıcak bir ton kullan. Altın ve pudrayı vurgu olarak sınırlı kullan. Başlıklarda zarif serif, açıklamalarda sade ve okunaklı yazı karakteri tercih et. Mümkünse sistem veya yerel font kullan; gereksiz dış servis bağlantıları kurma.
+
+BAKIR bir ürün grubudur; ana renk paletinin bakıra dönüştürülmesi anlamına gelmez.
+
+5. ÜRÜN GRUPLARI
+
+Aşağıdaki kategori adlarını doğru yaz:
+1) Takı
+2) Bakır Ürünler
+3) Saç Aksesuarları
+4) Epoksi
+5) Amigurumi
+6) Ev Dekorasyonu
+7) Yılbaşı Ürünleri
+8) Kişiye Özel Tasarımlar
+9) Hediye
+
+Bakır Ürünler kategorisi bakır bilezik gibi takı ve aksesuarları kapsar. Bakır cezve, tencere, tava veya başka mutfak gereçleri gösterme; bunlar üretilmiyor.
+
+Ürün fotoğrafları sağlanmadıysa mevcut stok, üretim kapasitesi veya satışa hazır ürün varmış gibi davranma. Temsilî görseller kullanılırsa “Görseller temsilî tasarım örnekleridir.” açıklaması görünür olsun.
+Haricî görsel üretim veya yükleme hizmeti kullanmak için önce kullanıcı onayı al. Kaynak görsel olmadan da yerel taslak, sade kategori ikonları ve görsel alanlarıyla tamamlanabilsin.
+
+6. SAYFA İÇERİĞİ VE YAPI
+
+İlk sürüm bir ürün vitrini olacak. Tek sayfalı, anlaşılır bir yapı yeterli.
+
+A) Üst menü
+- Marka/logo
+- Koleksiyonlar
+- Hikâyemiz
+- İletişim
+- Mobil ekranda erişilebilir ve çalışır menü
+
+B) Ana kapak
+- A&3K_taller
+- TASARIM ATÖLYESİ
+- “Bir anne ve 3 kızı”
+- Önerilen başlık: “Küçük detaylar, içten bir hikâye.”
+- Önerilen açıklama: “Bir anne ve 3 kızının dünyasından; kendinize, sevdiklerinize ve yaşam alanınıza küçük dokunuşlar.”
+- “Koleksiyonları keşfet” düğmesi ilgili bölüme kaydırsın.
+- Açık, sade kompozisyon; çok az veya hiç çiçek.
+
+C) Koleksiyonlar
+- Yukarıdaki 9 ürün grubu için düzenli kartlar.
+- “Tümü” ve kategori filtreleri çalışsın.
+- Kartlarda kategori adı ve kısa tanıtım.
+- Detay penceresi kullanılırsa klavyeyle açılıp kapanabilsin; Escape ile kapansın, odak yönetimi düzgün olsun.
+- Gerçek ürün bilgisi gelene kadar fiyat, stok veya ürün ölçüsü uydurma.
+
+D) Hikâyemiz
+Kullanılabilecek metin:
+“A&3K_taller, bir anne ve 3 kızının tasarım atölyesi. Takıdan saç aksesuarlarına, amigurumiden ev dekorasyonuna uzanan dünyamızda farklı fikirler aynı çatı altında buluşuyor. Bakır bileziklerin sıcaklığı, küçük bir hediyenin anlamı ve gündelik hayata eşlik eden detaylar… Bizim için hikâye burada başlıyor.”
+
+Kuruluş tarihi, kişi adları, adres, sertifika, müşteri sayısı ve deneyim süresi ekleme; bunlar verilmedi.
+
+E) Hediye / kişiye özel tasarımlar
+- Sade bir bölüm.
+- Önerilen başlık: “Seni düşündüm demenin zarif hâli.”
+- İlgili kategorilere çalışan yönlendirme.
+- Teslimat veya kişiselleştirme süresi vaat etme.
+
+F) İletişim
+Instagram hesabı, WhatsApp numarası ve iletişim e-postası henüz hazır değil.
+Şimdilik şu metni kullan:
+“İletişim ve sipariş kanallarımız hazırlanıyor. Şimdilik tasarım dünyamızı keşfedebilirsiniz.”
+
+Telefon, sosyal medya hesabı veya e-posta uydurma.
+Boş bağlantılı WhatsApp/Instagram düğmeleri koyma.
+Çalışmayan sipariş formu veya sahte “mesaj gönderildi” bildirimi oluşturma.
+
+G) Alt bilgi
+- A&3K_taller
+- TASARIM ATÖLYESİ
+- Bir anne ve 3 kızı
+- Başa dön bağlantısı
+
+7. İŞLEV VE TEKNİK BEKLENTİLER
+
+- Alışveriş sepeti, ödeme, üyelik ve gerçek sipariş alma ilk sürümün kapsamında değil.
+- Sahte yorumlar, indirimler, takipçi sayıları, ücretsiz kargo veya teslimat vaatleri ekleme.
+- Mobil, tablet ve masaüstünde düzgün çalışsın; yatay taşma olmasın.
+- Başlık sıralaması, açıklayıcı alternatif metinler, klavye erişimi ve görünür odak işaretleri olsun.
+- Hareket azaltma tercihini destekle; gereksiz animasyon kullanma.
+- Çerez, takip kodu, analiz aracı ve reklam entegrasyonu ekleme.
+- Gizli anahtar, kişisel veri veya iş hesabına ait bilgi dosyalara yazılmasın.
+- Basit bir vitrin için mümkünse HTML, CSS ve JavaScript kullan. Gereksiz sunucu, veritabanı veya kurulum bağımlılığı oluşturma.
+- Görseller ve dosyalar yerel klasörde bulunsun. Yetkisiz üçüncü taraf görsellerini kullanma.
+- Ücretsiz barındırmaya ileride taşınabilecek şekilde hazırla; şu anda yayınlama.
+
+8. TESLİMAT
+
+Aşağıdakileri ayrı dosyalar ve tek ZIP paketi olarak teslim et:
+- index.html
+- style.css
+- app.js
+- assets/ klasörü (kullanılan yerel görseller ve ikonlar)
+- BENI_OKU.txt: Yerelde nasıl açılacağı, dosya yapısı, değiştirilecek alanlar ve henüz eksik olan marka/ürün bilgileri
+
+İletişim bilgileri geldiğinde nereye ekleneceğini açıkça belirt.
+Test sonuçlarını kısaca bildir: mobil yerleşim, menü, bağlantılar, kategori filtreleri, varsa detay pencereleri, Türkçe metinler ve görsel yüklenmesi.
+Yapmadığın testi yapılmış gibi gösterme.
+
+SON KONTROL
+
+[ ] Görünür marka A&3K_taller olarak doğru yazıldı.
+[ ] TASARIM ATÖLYESİ ifadesi doğru; yasaklanan alternatif kullanılmadı.
+[ ] “Bir anne ve 3 kızı” ifadesi korundu.
+[ ] Beyaz ağırlıklı tasarım ve az çiçek kuralı uygulandı.
+[ ] Bakır bilezikler kapsandı; cezve veya mutfak gereci yok.
+[ ] İletişim ve ürün bilgileri uydurulmadı.
+[ ] İşveren/kurumsal hesap bağlantısı yok.
+[ ] Site hiçbir yere yüklenmedi veya yayınlanmadı.
+[ ] Çalışır yerel dosyalar ve ZIP teslim edildi.
+
+Bu talimatla işe başla; zorunlu olmayan sorularla durma. Eksik görselleri ve iletişim bilgilerini dürüstçe işaretleyerek yerel taslağı tamamla. Yayın için ayrıca açık kullanıcı onayı gerektiğini unutma.
